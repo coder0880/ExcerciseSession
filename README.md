@@ -1,2 +1,2 @@
 # Excercise Session
-pyhton 
+Python 
